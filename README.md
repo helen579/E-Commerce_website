@@ -4,4 +4,4 @@ The Front-End of the project is completed using HTML, CSS and Bootstrap and the 
 
 An SRS document was made to keep track of the progress and to not miss out on any aspect of the Project. Adobe XD was used to prepare the wireframe(layout of a web page).
 
-The website consist of login page, sign up page, view-details and cart page.
+The website consist of login page, sign up page, and view-details pages for few products.
